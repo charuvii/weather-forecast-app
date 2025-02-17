@@ -26,6 +26,4 @@ Weather API: OpenWeather - Provides weather data for the application.
 Icons: Font Awesome - Used for weather icons.
 Background Images: Unsplash - Provides high-quality images for backgrounds.
 
-Contributors
-Shiv Anand Awasthi
-Siddhartha Dwivedi
+
